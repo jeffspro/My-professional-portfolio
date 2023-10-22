@@ -10,33 +10,8 @@
  - Projetos / Estudos de casos
  - Formulário para contato
 
- Foi utilizado HTML, CSS e JavaScript nesse projeto.
-
-### Contents:
-  - [Categories](#categories)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-  - [Tools](#tools)
-  - [Video Tutorials](#tutorials)
-  - [License](#license)
-
-## Categories
-
-#### Badges 🎫
-- [jeffspro](https://github.com/jeffspro)
-
-#### Fonts 🖋
-- [jeffspro](https://github.com/jeffspro)
-
-#### Icons 🎯
-- [jeffspro](https://github.com/jeffspro)
-
-## Tools
-- [jeffspro](https://github.com/jeffspro)
-
-## Tutorials
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
+ Foi utilizado HTML, CSS e JavaScript nesse
+[PROJETO](index.html)
 
 ## License
 
