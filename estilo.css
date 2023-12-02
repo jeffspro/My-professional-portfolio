@@ -294,7 +294,7 @@ h1 span{
 }
 .contact-details{
 	display: flex;
-	flex-direction: column;
+	flex-direction: flex: 1 1 auto;;
 	background: #fff;
 	border-radius: 20px;
 	margin: 50px 35px;
