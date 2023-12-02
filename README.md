@@ -1,4 +1,4 @@
-# Página de negócios
+# Portfólio de Jefferson da Silva Sorreano
 
 ## Nesse projeto vou desenvolver um ambiente básico responsivo
 
@@ -6,8 +6,8 @@
  - Nota de apresentação 
  - links para redes sociais (linkedIn e Github)
  - Breve apresentação da minha trajetória
- - Metas de negócios
- - Projetos Char
+ - Tecnologias que estudei
+ - Projetos / Estudos de casos
  - Formulário para contato
 
  Foi utilizado HTML, CSS e JavaScript nesse
