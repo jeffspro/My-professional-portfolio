@@ -235,50 +235,6 @@ h1 span{
 	transform: scaleY(2.5);
 	margin-bottom: 10px;
 }
-/*---------------PROJECTS----------------------------------------------------------------------------------------------------*/
-.works{
-	margin: 0 40px;
-	margin-bottom: 20px;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-}
-.titulo-works{
-	margin: 50px 20px;
-	padding-top: 25px;
-	font-weight: 500;
-	letter-spacing: 2px;
-	font-size: 1.6rem;
-	display: block;
-}
-.grid_container_works{
-	display: grid;
-	grid-template-columns: repeat(2, 30vw);
-	grid-template-rows: repeat(3, 18vw);
-	justify-content: center;
-	align-self: center;
-	background-color: #fff;
-	padding: 30px;
-	border-radius: 50px;
-	width: 75vw;
-}
-.grid_items_div{
-	display: flex;
-	flex-direction: column;
-	justify-items: center;
-	align-items: center;
-}
-.grid_items_div h3{
-	text-align: center;
-}
-.grid_items_works{
-	width: 20vw;
-	height: 12vw;
-	border-radius: 20px;
-}
-.grid_items_works:hover{
-	box-shadow: 0 3px 15px 0 #555;
-}
 /*-------------CONTACT--------------------------------------------------------------------------------------------------*/
 .contact{
 	margin: 0 40px;
